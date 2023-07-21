@@ -5,7 +5,6 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
-                echo ' 2nd phase of testing'
                 echo ' again testing the jenkin'
                 echo 'Triggering jenkins pipeline 2'
             }

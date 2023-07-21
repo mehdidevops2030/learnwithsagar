@@ -4,6 +4,7 @@ pipeline {
         stage('Stage 1') {
             steps {
                 echo 'Hello world!' 
+                echo ' hello mehdi how are you , learn with sagar '
                 echo 'Triggering jenkins pipeline 2'
             }
         }

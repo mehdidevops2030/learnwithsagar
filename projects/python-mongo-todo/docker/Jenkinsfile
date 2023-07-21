@@ -6,8 +6,6 @@ pipeline {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
                 echo ' again testing the jenkin'
-                
-                echo ' testing results'
                 echo 'Triggering jenkins pipeline 2'
             }
         }

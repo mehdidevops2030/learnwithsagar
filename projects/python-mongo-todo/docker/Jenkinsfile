@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
+                echo ' two times '
                 echo 'Hello world!'
                 echo ' df -h'
                 echo ' mehdi al mehdi'

@@ -11,8 +11,7 @@ pipeline {
 
                 echo ' getfitwithsagar jenkins'
                 
-                echo ' again testing the jenkin'
-                echo 'Triggering jenkins pipeline 2'
+                
             }
         }
     }

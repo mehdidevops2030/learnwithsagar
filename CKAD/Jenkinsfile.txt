@@ -8,6 +8,7 @@ pipeline {
                 echo ' hello world from riyadh'
                 
                 echo ' learnwithsagar jenkins'
+                echo ' 24th july test blue ocean'
 
                 echo ' getfitwithsagar jenkins'
                 

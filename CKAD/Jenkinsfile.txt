@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
-                echo ' hello world from riyadh'
+                
                 
                 echo ' learnwithsagar jenkins'
                 echo ' 24th july test blue ocean'

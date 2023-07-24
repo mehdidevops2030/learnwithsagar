@@ -5,14 +5,13 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
-                
-                
+                               
                 echo ' learnwithsagar jenkins'
                 echo ' 24th july test blue ocean'
 
                 echo ' getfitwithsagar jenkins'
                 
-                echo ' again testing the jenkin'
+                
                 
             }
         }

@@ -6,7 +6,7 @@ pipeline {
                 echo 'Hello world!' 
                 echo ' hello mehdi how are you , learn with sagar '
                 echo ' hello &&&&&&&&&&&&&_____________#########'
-
+                echo ' lets make greate again #################'
                 echo ' welcome to scm'
                 echo ' learnwithsagar jenkins'
 

@@ -7,7 +7,7 @@ pipeline {
                 echo ' hello mehdi how are you , learn with sagar '
                 echo ' 24th july test blue ocean $$$$$$$$$^^^^^^^^^^^^^^!!!!!!!!'
                 echo ' 24th july test blue ocean $$$$$$$$$^^^^^^^^^^^^^^!!!!!!!!'
-                echo ' 24th july test blue ocean $$$$$$$$$^^^^^^^^^^^^^^!!!!!!!!'
+                
                 echo ' learnwithsagar jenkins'
                 echo ' 24th july test blue ocean'
 
